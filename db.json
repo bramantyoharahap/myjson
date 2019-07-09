@@ -1,5 +1,4 @@
-{
-  "persons":[
+[
     {
       "id":1,
       "name":"Febriano Bramantyo"
@@ -8,5 +7,5 @@
       "id":2,
       "name":"Joko Santoso"
     }
-  ]
-}
+]
+
